@@ -67,3 +67,14 @@ Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
 
+10. No
+
+11. Error because the online repository contains work that I do not have on my local machine
+
+12. Yes, class information is now on my local copy
+
+13. 
+.              .bash_logout  .gitconfig  .motd_shown                Ftoken.txt  fistprogram.cc  lab1.cc
+..             .bashrc       .landscape  .profile                   a.out       git-lab         lab1.out
+.bash_history  .cache        .lesshst    .sudo_as_admin_successful  file.out    git-lab-2
+
